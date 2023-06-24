@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @callmeShivansh
-- 👀 I’m interested in web development and blockchain
-- 🌱 I’m currently learning html, C++, Java, blockchain development
+- 👋 Hi, I’m @itsShivanshSrivastava
+- 👀 I’m interested in web development and Machine learning.
+- I'm a front-end web-developer. 
+- 🌱 I’m currently learning Machine learning in cloud.
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me:- Shivanshsrivastava113@gmail.com 
 
