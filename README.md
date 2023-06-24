@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsShivanshSrivastava
+- 👋 Hi, I’m @srivastavashivansh
 - 👀 I’m interested in web development and Machine learning.
 - I'm a front-end web-developer. 
 - 🌱 I’m currently learning Machine learning in cloud.
